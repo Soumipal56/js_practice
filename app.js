@@ -69,3 +69,61 @@
 // let nm = "Soumi"
 // console.log(nm);
 
+// 12. Declare a constant named `PI` with the value `3.14`
+// and print it
+// const PI = 3.14;
+// console.log(PI);
+
+// 13. 
+
+// 14. Print the output of `typeof null` and observe what type
+// JavaScript reports
+// console.log(typeof null); // Output: object
+
+// 15. Create a variable containing a numeric value as a string
+// (e.g.`"25"`) and print its type
+// let num = "25"
+// console.log(typeof num); // Output: string
+
+// 16. Create a boolean variable and print its `typeof`
+// let bool = true
+// console.log(typeof bool); // Output: boolean
+
+// 17. Create three variables: a string, a number, and a boolean. Print
+// all of them together in a formatted output
+// let a = "25"
+// let b = 25
+// let c = true
+// console.log(typeof a, typeof b, typeof c);
+
+// 18. Declare a variable without assigning a value and print its type using `typeof`
+// let a
+// console.log(typeof a); // Output: undefined
+
+// 19. Create a variable with the value `undefined` and print its type
+// let a = undefined
+// console.log(typeof a); // Output: undefined
+
+// 20. Create an array using `const`, print it, attempt to reassign the entire array 
+// (and handle the error), then modify the existing array by adding a new element and
+// print the updated array
+// const arr = [1, 3, 6, 7]
+// console.log(arr);
+
+// try{
+//     arr = [1, 3, 6, 7]
+// }
+// catch(err){
+//     console.log(err);
+// }
+// finally{
+//     arr.push(9)
+//     console.log(arr);
+// }
+
+// Loops
+// 21. Write a program that prints the numbers from 1 to 50 using  a `for` loop
+// for (let num = 1; num <= 50; num++) {
+//     console.log(num);
+// }
+
