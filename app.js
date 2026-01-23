@@ -65,4 +65,7 @@
 // console.log(result); // Outputs: Infinity
 
 // Variables and Data Types
+// 11. Create a variable using `let` and print its value
+// let nm = "Soumi"
+// console.log(nm);
 
