@@ -74,7 +74,11 @@
 // const PI = 3.14;
 // console.log(PI);
 
-// 13. 
+// 13. Declare a variable, reassign it, and print both values
+// let a = 25
+// console.log(a);
+// a = 26
+// console.log(a);
 
 // 14. Print the output of `typeof null` and observe what type
 // JavaScript reports
@@ -127,3 +131,56 @@
 //     console.log(num);
 // }
 
+// 22. Calculate the sum of numbers from 1 to 10 using a `while` loop
+// let i = 1
+// let sum = 0
+// while(i<=10){
+//     sum+= i
+//     i++
+// }
+// console.log("Sum of numbers from 1 to 10: " + " " + sum);
+
+// 23. Print each character of "JavaScript" using for...of
+// let nm = "JavaScript"
+// for(let char of nm){
+//     console.log(char);
+// }
+
+// 24. Print odd numbers from 1 to 20 using continue
+// for(let i=1; i<=20; i++){
+//     if(i%2 == 0){
+//         continue;
+//     }
+//     console.log(i);
+// }
+
+// 25. Print numbers from 5 to 1 using do...while
+// let i = 5
+// do{
+//     console.log(i);
+//     i--
+// }while(i>=1)
+
+// 26. Calculate the factorial of 5 using a loop
+// let num = 5
+// let fact = 1
+// for(let i = 1; i<=num; i++){
+//     fact *= i
+// }
+// console.log(fact);
+
+// 27.
+
+// 28. 
+
+// 29. Print numbers between 1-100 divisible by 5
+// for(let i = 1; i <= 100; i++){
+//     if(i % 5 === 0){ 
+//         console.log(i);
+//     }
+// }
+
+// 30. Print the multiplication table of 7 using a loop
+// for(let i = 1; i <= 10; i++){
+//     console.log(`7 * ${i} = ${7 * i}`);
+// }
