@@ -184,3 +184,31 @@
 // for(let i = 1; i <= 10; i++){
 //     console.log(`7 * ${i} = ${7 * i}`);
 // }
+
+// Arrays
+// 31. Create an array of movies and print using join("-")
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"]
+// let result = arr.join("-")
+// console.log(result);
+
+// 32. Print the element at index 1 of an array
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"]
+// console.log(arr[1]);
+
+// 33. Add two elements at the beginning using unshift()
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"]
+// arr.unshift("Sholay", "Golmaal")
+// console.log(arr);
+
+// 34. Remove the last element using pop()
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"]
+// arr.pop(arr[4])
+// console.log(arr);
+
+// 35. Extract the first three elements using slice()
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"]
+// let result = arr.slice(0, 3)
+// console.log(result);
+
+// 36.
+
