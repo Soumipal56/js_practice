@@ -210,5 +210,28 @@
 // let result = arr.slice(0, 3)
 // console.log(result);
 
-// 36.
+// 36. Find the index of number 5 using indexOf()
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"] 
+// let result = arr.indexOf("Dangal") 
+// console.log(result);
 
+// 37. Check if 3 exists using includes()
+// let arr = ["Dilwale", "Josh", "PK", "Pathaan", "Dangal"] 
+// let result = arr.includes("Pathaan")
+// console.log(result);
+
+// 38. Merge two arrays using concat()
+// let arr1 = ["Dilwale", "Josh", "PK"]
+// let arr2 = ["Pathaan", "Dangal"]
+// let result = arr1.concat(arr2)
+// console.log(result);
+
+// 39. Sort an array of numbers in ascending order
+// let num = [10, 1, 4, 70, 34]
+// num.sort((a, b) => a - b)
+// console.log(num);
+
+// 40. Copy an array using spread operator and compare references
+// let arr1 = ["Dilwale", "Josh", "PK"]
+// let arr2 = [...arr1]
+// console.log(arr1 === arr2); // Output: false
