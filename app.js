@@ -246,14 +246,12 @@
 //         console.log("Odd");
 //     }
 // }
-
 // num(5);
 
-// 42. Write a ffunction to calculate the area of a circle
+// 42. Write a function to calculate the area of a circle
 // function area(pi, r){
 //     console.log(pi * r * r);
 // }
-
 // area(3.14, 2)
 
 // 43. Write a function that returns the sum of an array
@@ -264,5 +262,19 @@
 // function helloWorld(){
 //     console.log("Hello World");
 // }
-
 // helloWorld();
+
+// Conditionals
+// 51. Return "positive", "negative", or "zero" for a number
+// const prompt = require("prompt-sync")()
+// let num = prompt("Enter a number: ")
+// if(num == 0){
+//     console.log("Zero");
+// }
+// else if(num > 0){
+//     console.log("Positive");
+// }
+// else{
+//     console.log("Negative");
+// }
+
