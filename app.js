@@ -235,3 +235,6 @@
 // let arr1 = ["Dilwale", "Josh", "PK"]
 // let arr2 = [...arr1]
 // console.log(arr1 === arr2); // Output: false
+
+// Functions
+// 41.
