@@ -237,4 +237,32 @@
 // console.log(arr1 === arr2); // Output: false
 
 // Functions
-// 41.
+// 41. Write a function that returns "even" or "odd"
+// function num(a){
+//     if(a % 2 == 0){
+//         console.log("Even");
+//     }
+//     else{
+//         console.log("Odd");
+//     }
+// }
+
+// num(5);
+
+// 42. Write a ffunction to calculate the area of a circle
+// function area(pi, r){
+//     console.log(pi * r * r);
+// }
+
+// area(3.14, 2)
+
+// 43. Write a function that returns the sum of an array
+
+// 44. Write a function to check if a string starts with a character
+
+// 50. Write a helloWorld function that prints "Hello World"
+// function helloWorld(){
+//     console.log("Hello World");
+// }
+
+// helloWorld();
