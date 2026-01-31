@@ -286,4 +286,20 @@
 //     console.log("Negative");
 // }
 
-// 52.
+// 52. Convert Celsius to Fahrenheit using a function
+// function convert(c, f){
+//     console.log((c * (9/5)) + 32);
+// }
+// convert(25, 32)
+
+// 53. Return the average of numbers in an array
+// function avg(arr){
+//     let sum = 0
+//     for(let i = 0; i < arr.length; i++){
+//         sum += arr[i]
+//     }
+//     return sum / arr.length
+// }
+// console.log(avg([4, 8, 12, 16]));
+
+// 54. 
