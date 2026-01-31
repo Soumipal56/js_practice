@@ -171,7 +171,7 @@
 
 // 27.
 
-// 28. 
+// 28.
 
 // 29. Print numbers between 1-100 divisible by 5
 // for(let i = 1; i <= 100; i++){
@@ -255,6 +255,14 @@
 // area(3.14, 2)
 
 // 43. Write a function that returns the sum of an array
+// function sums(arr){
+//     let sum = 0
+//     for(let i = 0; i < arr.length; i++){
+//         sum += arr[i]
+//     }
+//     console.log(sum);
+// }
+// sums([1, 2, 3, 4, 5])
 
 // 44. Write a function to check if a string starts with a character
 
@@ -278,3 +286,4 @@
 //     console.log("Negative");
 // }
 
+// 52.
