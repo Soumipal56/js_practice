@@ -303,3 +303,19 @@
 // console.log(avg([4, 8, 12, 16]));
 
 // 54. 
+
+// 55. Check whether a number is prime
+// const prompt = require("prompt-sync")();
+// let n = parseInt(prompt("Enter number: "));
+// let flag = 0;
+// for (let i = 2; i < n; i++) {
+//     if (n % i === 0) {
+//         flag = 1;
+//         break;
+//     }
+// }
+
+// if (flag === 0 && n > 1)
+//     console.log("Prime");
+// else
+//     console.log("Not Prime");
